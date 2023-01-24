@@ -1,3 +1,3 @@
 # test-text
 
-Playing with an interactive particle text
+Playing with interactive particle text
